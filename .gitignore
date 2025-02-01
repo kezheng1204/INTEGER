@@ -1,0 +1,59 @@
+.idea
+.vscode
+build
+output
+weights
+*.egg-info
+*.so
+**/__pycache__
+pretrained
+data/*/downsampled
+data/*/sequences
+data/ModelNet/*.pkl
+logs/*
+logs
+*.log
+*.bak
+
+geotransformer/modules/clique/test/*
+geotransformer/modules/clique/test
+commands.txt
+outputs/
+datasets/
+outputs
+scripts/ResUNetBN2C
+
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Compiled C++ files
+*.out
+
+# Application specific files
+venv
+node_modules
+.sass-cache
+
+# Temp File
+*.swp
+*.swa
+*.swo
+
+# github merge file
+*.orig
+
+#vscode 
+.vscode
